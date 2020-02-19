@@ -60,3 +60,6 @@ If you find this repo helpful, please consider citing:
     pages={2326--2336},
     year={2019},
     }
+    
+License
+This repo is CC-BY-NC 4.0 licensed, as found in the LICENSE file.
